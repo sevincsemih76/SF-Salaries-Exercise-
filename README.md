@@ -1,1 +1,1 @@
-# SF-Salaries-Exercise-
+# SF-Salaries-Exercise
